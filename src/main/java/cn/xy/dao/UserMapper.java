@@ -5,7 +5,7 @@ import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Select;
 
 /**
- * Created by User on 2017/5/3.
+ * Created by xy on 2017/5/3.
  */
 @Mapper
 public interface UserMapper {

@@ -1,7 +1,7 @@
 package cn.xy.domin;
 
 /**
- * Created by User on 2017/5/3.
+ * Created by xy on 2017/5/3.
  */
 public class User {
     private Long id;
